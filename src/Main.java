@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello GIT !");
         System.out.println("Hello GIT !");
         System.out.println("I'am redaction kod");
+        System.out.println("I'am redaction kod");
+        System.out.println("I'am redaction kod");
     }
 }
